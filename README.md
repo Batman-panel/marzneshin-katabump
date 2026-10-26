@@ -17,7 +17,7 @@
 **A production-style Marzneshin panel that actually boots on KataBump's free tier
 — and hands you a ready-to-import config pack the moment it starts.**
 
-**🌐 Languages:** [English](#-english) · [فارسی](#-فارسی) · [العربية](#-العربية) · [Русский](#-Русский) · [中文](#-中文) · [Türkçe](#-türkçe)
+**🌐 Languages:** [English](#-english) · [فارسی](#-فارسی) · [العربية](#-العربية) · [Русский](#-русский) · [中文](#-中文) · [Türkçe](#-türkçe)
 
 [🚀 Quick start](#-quick-start) · [📡 Ready configs](#-ready-made-configs) · [⚙️ Env vars](#-environment-variables) · [🩺 Troubleshooting](#-troubleshooting) · [⭐ Star this repo](https://github.com/Batman-panel/marzneshin-katabump)
 
@@ -427,7 +427,7 @@ Provided **as is**, for educational and personal use. You are responsible for co
 
 ---
 
-<a id="-Русский"></a>
+<a id="-русский"></a>
 
 ## 🇷🇺 Русский
 
